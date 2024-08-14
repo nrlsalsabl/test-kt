@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnpersegi"
+        android:layout_width="138dp"
+        android:layout_height="79dp"
+        android:layout_marginEnd="236dp"
+        android:layout_marginBottom="444dp"
+        android:text="@string/persegi"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnpersegiPjg"
+        android:layout_width="149dp"
+        android:layout_height="84dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="440dp"
+        android:text="@string/persegi_panjang"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnJajarGjg"
+        android:layout_width="144dp"
+        android:layout_height="80dp"
+        android:layout_marginEnd="236dp"
+        android:layout_marginBottom="320dp"
+        android:text="@string/jajar_genjang"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnsegitiga"
+        android:layout_width="156dp"
+        android:layout_height="76dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="324dp"
+        android:text="@string/segitiga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnbelahKt"
+        android:layout_width="147dp"
+        android:layout_height="75dp"
+        android:layout_marginEnd="236dp"
+        android:layout_marginBottom="212dp"
+        android:text="@string/belah_ketupat"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnLayang"
+        android:layout_width="157dp"
+        android:layout_height="72dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="212dp"
+        android:text="@string/layang_layang"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btntrapesium"
+        android:layout_width="146dp"
+        android:layout_height="74dp"
+        android:layout_marginEnd="232dp"
+        android:layout_marginBottom="100dp"
+        android:text="@string/trapesium"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnlingkaran"
+        android:layout_width="161dp"
+        android:layout_height="66dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="108dp"
+        android:text="@string/lingkaran"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/pilihan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="76dp"
+        android:text="@string/silahkan_pilih_salah_satu_menu_dibawah_ini"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

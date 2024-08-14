@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bangun Ruang</string>
+    <string name="trapesium">Trapesium</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="layang_layang">Layang-Layang</string>
+    <string name="belah_ketupat">Belah Ketupat</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="jajar_genjang">Jajar Genjang</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="persegi">Persegi</string>
+    <string name="hasil">Hasil</string>
+    <string name="hitung">Hitung</string>
+    <string name="masukkan_nilai_sisi">Masukkan Nilai Sisi</string>
+    <string name="rumus_persegi">Rumus Persegi</string>
+    <string name="silahkan_pilih_salah_satu_menu_dibawah_ini">Silahkan pilih salah satu menu dibawah ini</string>
+    <string name="rumuspersegipjg">rumusPersegiPjg</string>
+    <string name="masukkan_nilai_panjang">Masukkan Nilai Panjang</string>
+    <string name="masukkan_nilai_lebar">Masukkan nilai lebar</string>
+    <string name="rumus_jajar_gjg">rumus Jajar Gjg</string>
+    <string name="masukkan_nilai_a">Masukkan nilai a</string>
+    <string name="masukkan_nilai_b">Masukkan nilai b</string>
+    <string name="masukkan_nilai_c">Masukkan nilai c</string>
+    <string name="masukkan_nilai_d">Masukkan nilai d</string>
+    <string name="rumus_jajar_genjang">Rumus Jajar Genjang</string>
+    <string name="rumus_segitiga">rumus segitiga</string>
+    <string name="rumus_belah_ketupat">rumus Belah ketupat</string>
+    <string name="rumus_layang_layang">rumus layang-layang</string>
+    <string name="rumus_trapesium">rumus trapesium</string>
+    <string name="rumus_lingkaran">rumus lingkaran</string>
+    <string name="masukkan_nilai_r">Masukkan nilai r</string>
+</resources>
